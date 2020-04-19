@@ -1,1 +1,6 @@
 # MEM_Project
+
+PULL
+STAGE
+COMMIT
+PUSH
