@@ -1,0 +1,2083 @@
+﻿RegistrationUnit_Name,ProjectUnit_Name,MacroPlot_Name,Multi_PU,SampleEvent_Date,SampleEvent_DefaultMonitoringStatus,MonitoringStatus_Name,Protocols,Visited,SampleEvent_TreatmentUnit
+CRLA,Bybee_CBI,Bybee_CBI_1,N,8/18/07 10:18,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_10,N,7/26/07 16:20,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_100,N,7/29/07 15:44,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_101,N,8/14/07 15:01,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_102,N,8/16/07 15:44,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_103,N,7/26/07 15:44,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_104,N,7/29/07 15:45,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_107,N,8/18/07 10:25,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_109,N,8/18/07 10:22,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_113,N,8/16/07 16:27,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_12,N,7/30/07 17:19,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_14,N,8/16/07 13:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_15,N,7/29/07 15:20,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_16,N,8/16/07 15:21,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_17,N,7/29/07 15:21,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_18,N,8/15/07 15:22,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_19,N,7/28/07 17:23,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_2,N,7/29/07 16:04,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_20,N,7/30/07 17:29,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_21,N,8/17/07 15:22,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_22,N,7/25/07 8:07,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_23,N,7/30/07 8:15,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_24,N,8/18/07 15:22,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_25,N,8/14/07 16:00,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_26,N,7/27/07 15:23,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_27,N,8/15/07 8:19,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_29,N,8/17/07 15:23,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_3,N,7/26/07 13:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_30,N,8/18/07 15:31,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_31,N,7/30/07 8:29,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_32,N,7/26/07 15:31,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_34,N,7/29/07 8:35,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_35,N,7/26/07 15:31,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_36,N,7/28/07 15:32,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_38,N,8/16/07 17:03,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_43,N,8/16/07 15:32,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_44,N,8/16/07 8:41,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_46,N,7/30/07 15:33,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_47,N,7/29/07 8:47,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_48,N,7/26/07 8:52,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_49,N,7/29/07 15:20,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_50,N,7/27/07 15:33,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_51,N,8/15/07 15:33,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_52,N,7/27/07 15:34,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_53,N,7/27/07 15:34,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_54,N,8/16/07 16:15,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_55,N,8/15/07 13:41,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_56,N,8/14/07 15:36,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_57,N,7/25/07 16:58,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_58,N,7/25/07 16:54,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_59,N,7/26/07 15:36,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_60,N,8/18/07 15:36,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_61,N,8/16/07 15:37,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_62,N,8/16/07 13:41,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_63,N,8/16/07 8:57,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_64,N,8/15/07 15:37,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_65,N,7/30/07 9:02,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_66,N,8/18/07 15:37,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_69,N,8/13/07 15:38,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_7,N,8/14/07 13:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_70,N,7/27/07 15:38,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_71,N,8/27/07 15:39,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_73,N,8/15/07 16:50,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_74,N,7/29/07 15:15,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_75,N,8/14/07 15:39,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_76,N,7/26/07 15:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_77,N,7/30/07 9:06,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_78,N,7/30/07 9:13,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_79,N,7/29/07 9:17,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_8,N,8/16/07 17:14,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_80,N,7/26/07 15:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_81,N,7/24/07 15:40,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_82,N,8/18/07 10:15,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_84,N,8/16/07 15:41,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_85,N,7/28/07 15:41,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_86,N,7/25/07 16:45,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_87,N,8/15/07 16:33,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_88,N,8/15/07 15:42,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_89,N,7/26/07 15:43,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_97,N,8/16/07 15:43,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_98,N,8/13/07 15:43,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FPICO1BY08-01,N,9/9/07 10:29,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FPICO1BY08-02,N,9/9/07 10:30,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FPICO1BY08-03,N,9/9/07 10:35,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FPICO1BY08-04,N,9/9/07 10:36,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-05,N,1/23/08 14:11,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-06,N,7/28/07 14:27,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-07,N,7/28/07 14:12,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-08,N,7/28/07 14:12,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-09,N,7/26/07 14:43,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-10,N,7/28/07 14:13,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-11,N,7/28/07 14:14,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-12,N,7/28/07 14:14,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-13,N,7/28/07 14:14,,Post01,CBI,Y,
+CRLA,Bybee_CBI,Bybee_CBI_FTSME1BY08-14,N,7/28/07 14:14,,Post01,CBI,Y,
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/19/98 9:50,Pre00Year01,00Pro1,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,8/16/02,,00Pre,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:01,N,6/3/13 8:01,01Yr10,01Yr10,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/21/98,,00Pro1,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,8/16/02,,00Pre,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:02,N,6/3/13 8:02,01Yr10,01Yr10,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Density - Belts (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Trees - Individuals (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Cover - Points (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Post Burn Severity (metric),N,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Density - Quadrats (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Cover - Species Composition (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/4/99,,00Pro1,Surface Fuels,Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Post Burn Severity (metric),N,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Density - Quadrats (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Cover - Species Composition (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Surface Fuels,Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Density - Belts (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Trees - Individuals (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:03,N,8/18/02,,00Pre,Cover - Points (metric),Y,PH2
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/3/99,,00Pro1,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,8/13/02,,00Pre,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:04,N,6/3/13 8:02,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/02,,00Pre,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Post Burn Severity (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Density - Quadrats (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Cover - Species Composition (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Density - Belts (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:37,,01Post,Cover - Points (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/15/03 12:38,,01Yr01,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,8/13/04 14:36,,01Yr02,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:05,N,7/9/12 15:14,01Yr10,01Yr10,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/17/02,,00Pre,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Cover - Points (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Post Burn Severity (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Density - Quadrats (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Cover - Species Composition (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:35,,01Post,Density - Belts (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/14/03 15:38,,01Yr01,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,8/12/04 12:44,,01Yr02,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Cover - Points (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Post Burn Severity (metric),N,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Surface Fuels,Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:06,N,6/25/12 15:15,01Yr10,01Yr10,Density - Belts (metric),Y,PH3
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/8/07 9:13,,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,9/13/10 9:58,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Post Burn Severity (metric),N,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,7/23/11 16:45,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Post Burn Severity (metric),N,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:07,N,8/16/12 15:11,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Post Burn Severity (metric),N,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:08,N,9/11/07 10:26,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:09,N,7/11/09 13:06,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:11,N,7/8/09 16:37,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/4/99,,00Pro1,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,8/13/02,,00Pre,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Post Burn Severity (metric),N,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Density - Quadrats (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Cover - Species Composition (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Surface Fuels,Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Density - Belts (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Trees - Individuals (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:12,N,6/3/13 8:03,01Yr10,01Yr10,Cover - Points (metric),Y,PH1
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/12/09 16:52,,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,9/13/10 11:54,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,7/23/11 15:51,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:13,N,8/15/12 15:12,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:14,N,7/13/09 16:57,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:15,N,8/20/09 17:00,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:16,N,8/21/09 17:02,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:17,N,8/21/09 17:04,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Cover - Points (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Density - Quadrats (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Cover - Species Composition (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Surface Fuels,Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Density - Belts (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:20,N,7/6/10 8:38,Pre00,00Pre,Trees - Individuals (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Cover - Points (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Density - Quadrats (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Cover - Species Composition (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Surface Fuels,Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Density - Belts (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:21,N,7/8/10 8:40,Pre00,00Pre,Trees - Individuals (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Surface Fuels,Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Density - Belts (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Trees - Individuals (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Cover - Points (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Density - Quadrats (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:22,N,7/7/10 8:41,Pre00,00Pre,Cover - Species Composition (metric),Y,Upper Panhandle Rx
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Cover - Points (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Density - Quadrats (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Cover - Species Composition (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Surface Fuels,Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Density - Belts (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:23,N,9/14/11 8:42,Pre00,00Pre,Trees - Individuals (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Density - Quadrats (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Cover - Species Composition (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Surface Fuels,Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Density - Belts (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Trees - Individuals (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,B:FABCO1D08:24,N,9/15/11 8:44,Pre00,00Pre,Cover - Points (metric),Y,Upper Panhandle
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:10,N,7/12/09 13:15,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:18,N,8/23/09 12:11,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Density - Belts (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Trees - Individuals (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Cover - Points (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Density - Quadrats (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Cover - Species Composition (metric),Y,Phoenix Rx
+CRLA,FABCO1D08,C:FABCO1D08:19,N,8/23/09 12:12,,00Pre,Surface Fuels,Y,Phoenix Rx
+CRLA,FBRUS1D00,B:FBRUS1D00:01,N,6/10/95,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:01,N,6/10/95,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:02,N,6/10/95,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:02,N,6/10/95,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:03,N,7/21/95,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:03,N,7/21/95,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:04,N,8/13/95,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:04,N,8/13/95,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:05,N,7/29/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:05,N,7/29/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:06,N,7/23/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:06,N,7/23/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:07,N,7/24/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:07,N,7/24/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:08,N,8/2/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:08,N,8/2/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:09,N,8/1/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:09,N,8/1/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FBRUS1D00,B:FBRUS1D00:11,N,7/25/96,,00Pro1,Density - Quadrats (metric),N,
+CRLA,FBRUS1D00,B:FBRUS1D00:11,N,7/25/96,,00Pro1,Density - Belts (metric),Y,
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,9/9/07 13:38,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:01,N,8/16/11 13:26,Re01Year5,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,9/10/07 13:39,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:02,N,8/16/11 13:28,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,9/10/07 13:39,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:03,N,8/16/11 13:28,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,9/10/07 13:40,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FPICO1BY08,B:FPICO1BY08:04,N,8/16/11 13:29,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Post Burn Severity (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/06 9:55,,00Pre,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Post Burn Severity (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Density - Quadrats (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Cover - Species Composition (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Surface Fuels,N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Density - Belts (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Trees - Individuals (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,9/24/07 8:44,,01Post,Cover - Points (metric),N,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/22/08 9:03,,01Yr01,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,7/10/09 9:44,,01Yr02,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/17/10 7:12,Re01Year03,01Yr03,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Trees - Individuals (metric),Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Cover - Points (metric),Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Density - Quadrats (metric),Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Cover - Species Composition (metric),Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Surface Fuels,Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/15/12 15:15,01Yr05,01Yr05,Density - Belts (metric),Y,Cornerstone
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Density - Quadrats (metric),Y,
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Cover - Species Composition (metric),Y,
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Surface Fuels,Y,
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Density - Belts (metric),Y,
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Trees - Individuals (metric),Y,
+CRLA,FPICO1D08,B:FPICO1D08:03,N,8/25/16 19:53,01Yr09,01Yr09,Cover - Points (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Post Burn Severity (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,9/22/05 14:40,,00Pre,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/20/08 16:05,,01Yr01,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/9/09 9:17,,01Yr02,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/23/10 7:30,Re01Year03,01Yr03,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Surface Fuels,Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Density - Belts (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Trees - Individuals (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Cover - Points (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Density - Quadrats (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,8/14/12 15:16,01Yr05,01Yr05,Cover - Species Composition (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Cover - Points (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Density - Quadrats (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Cover - Species Composition (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Surface Fuels,Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Density - Belts (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:01,N,7/31/16 20:27,01Yr09,01Yr09,Trees - Individuals (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Post Burn Severity (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/25/05 15:57,,00Pre,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Post Burn Severity (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Density - Quadrats (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Cover - Species Composition (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Surface Fuels,N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Density - Belts (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Trees - Individuals (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,9/24/07 8:21,,01Post,Cover - Points (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/19/08 15:39,,01Yr01,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,7/10/09 10:20,,01Yr02,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/22/10 7:31,Re01Year03,01Yr03,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Density - Quadrats (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Cover - Species Composition (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Surface Fuels,Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Density - Belts (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Trees - Individuals (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/15/12 15:16,01Yr05,01Yr05,Cover - Points (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Density - Quadrats (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Cover - Species Composition (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Surface Fuels,Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Density - Belts (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Trees - Individuals (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:02,N,8/25/16 19:09,01Yr09,01Yr09,Cover - Points (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/13/06 16:11,,00Pro1,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/10/10 11:13,Pre00,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,9/23/10 8:16,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,7/23/11 13:13,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:03,N,8/16/12 15:17,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Post Burn Severity (metric),N,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,9/21/05 9:08,,00Pre,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/21/08 14:54,,01Yr01,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,7/9/09 10:26,,01Yr02,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/23/10 7:33,Re01Year03,01Yr03,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Cover - Points (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Density - Quadrats (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Cover - Species Composition (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Surface Fuels,Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Density - Belts (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/14/12 15:17,01Yr05,01Yr05,Trees - Individuals (metric),Y,Cornerstone
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Density - Quadrats (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Cover - Species Composition (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Surface Fuels,Y,
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Density - Belts (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Trees - Individuals (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:04,N,8/25/16 20:44,01Yr09,01Yr09,Cover - Points (metric),Y,
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/26/05 8:47,,00Pro1,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/10/10 13:24,Pre00,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,9/14/10 9:48,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,7/23/11 13:11,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO2D08,B:FPICO2D08:05,N,8/16/12 15:17,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Post Burn Severity (metric),N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/27/05 15:56,,00Pre,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Surface Fuels,N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Density - Belts (metric),N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Cover - Points (metric),N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Post Burn Severity (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Density - Quadrats (metric),N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,9/24/07 16:32,,01Post,Cover - Species Composition (metric),N,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/21/08 8:16,,01Yr01,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Cover - Species Composition (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Surface Fuels,Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Density - Belts (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Trees - Individuals (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,7/10/09 10:29,,01Yr02,Cover - Points (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/17/10 7:33,Re01Year03,01Yr03,Density - Quadrats (metric),Y,Cornerstone Rx
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Density - Belts (metric),Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Trees - Individuals (metric),Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Cover - Points (metric),Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Density - Quadrats (metric),Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Cover - Species Composition (metric),Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/14/12 15:18,01Yr05,01Yr05,Surface Fuels,Y,Cornerstone
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Cover - Points (metric),Y,
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Density - Quadrats (metric),Y,
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Cover - Species Composition (metric),Y,
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Surface Fuels,Y,
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Density - Belts (metric),Y,
+CRLA,FPICO3D08,B:FPICO3D08:01,N,8/24/16 20:06,01Yr09,01Yr09,Trees - Individuals (metric),Y,
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/28/05 8:41,,00Pro1,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/9/10 16:49,Pre00,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,9/23/10 8:25,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,7/24/11 13:20,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:02,N,8/16/12 15:18,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/14/06 11:10,Pre00Year01,00Pro1,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Surface Fuels,Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Density - Belts (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Cover - Points (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Post Burn Severity (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Density - Quadrats (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/9/10 14:51,Pre00,00Pre,Cover - Species Composition (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Post Burn Severity (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Density - Quadrats (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Cover - Species Composition (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Surface Fuels,N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Density - Belts (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Trees - Individuals (metric),Y,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,9/23/10 8:23,Post01,01Post,Cover - Points (metric),N,Phoenix WF
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Surface Fuels,Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,7/24/11 13:15,Re01Year01,01Yr01,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Density - Belts (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Trees - Individuals (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Cover - Points (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Density - Quadrats (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Cover - Species Composition (metric),Y,Phoenix
+CRLA,FPICO3D08,B:FPICO3D08:03,N,8/16/12 15:19,01Yr02,01Yr02,Surface Fuels,Y,Phoenix
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Surface Fuels,N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/10/95,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/18/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,6/22/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,10/23/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/16/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,8/31/03 15:30,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:01,N,7/21/11 13:19,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,6/10/95,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/18/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/7/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,10/23/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/16/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,8/31/03 8:44,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:02,N,7/22/11 14:47,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/95 17:05,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/18/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/9/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,10/22/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/18/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,8/30/03,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:03,N,7/21/11 10:07,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/13/95,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/20/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/9/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,5/9/02 10:22,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/18/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,8/28/03 8:48,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:04,N,7/20/11 11:14,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/29/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/5/99,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,5/9/02,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/17/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,8/19/03 9:56,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:05,N,7/20/11 12:18,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/23/96,,00Pro1,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/5/99,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,10/22/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/18/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,8/18/03 15:07,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:06,N,7/19/11 9:24,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/24/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/5/99,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,10/22/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/16/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/18/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,8/18/03 15:06,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:07,N,7/19/11 9:24,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Surface Fuels,N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/2/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/17/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/9/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,10/22/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/16/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 8:54,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,8/29/03 16:02,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Post Burn Severity (metric),N,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Density - Quadrats (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Cover - Species Composition (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Surface Fuels,Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Density - Belts (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Trees - Individuals (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:08,N,7/21/11 11:53,Re01year10,01Yr10,Cover - Points (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Surface Fuels,N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/1/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/98,,00Pro2_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/9/01,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,10/23/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/17/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 8:57,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,8/30/03 12:55,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Trees - Individuals (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Cover - Points (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Post Burn Severity (metric),N,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Density - Quadrats (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Cover - Species Composition (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Surface Fuels,Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:09,N,7/22/11 13:30,Re01year10,01Yr10,Density - Belts (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Surface Fuels,N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/11/01,,00Pre_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Post Burn Severity (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Surface Fuels,N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,10/21/01,,01Post_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/19/02,,01Yr01,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 9:00,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,8/16/03 10:31,,01Yr02,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Post Burn Severity (metric),N,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Surface Fuels,Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Density - Belts (metric),Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:10,N,7/18/11 15:45,Re01year10,01Yr10,Cover - Points (metric),Y,TC-1
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/25/96,,00Pro1,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/5/99,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,10/21/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/17/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,8/28/03 10:10,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:11,N,7/21/11 14:02,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/5/99,,00Pre_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Post Burn Severity (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,10/21/01,,01Post,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Density - Quadrats (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Density - Belts (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/18/02,,01Yr01_alt,Cover - Points (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,8/19/03 9:21,,01Yr02,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Post Burn Severity (metric),N,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Surface Fuels,Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Density - Belts (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:12,N,7/20/11 11:02,Re01year10,01Yr10,Cover - Points (metric),Y,TC2
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/10/01,,00Pre,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Post Burn Severity (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Surface Fuels,N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,10/22/01,,01Post_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/02,,01Yr01,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,8/17/03 15:16,,01Yr02,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:13,N,7/19/11 7:44,Re01year10,01Yr10,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Surface Fuels,N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/11/01,,00Pre,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Surface Fuels,N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Post Burn Severity (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,10/21/01,,01Post,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Cover - Points (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Density - Quadrats (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Cover - Species Composition (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01_alt,Density - Belts (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/19/02,,01Yr01,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:03,Re01Year02_alt,01Yr02_alt,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Post Burn Severity (metric),N,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Density - Quadrats (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Cover - Species Composition (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Surface Fuels,Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Density - Belts (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Trees - Individuals (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,8/14/03 9:19,,01Yr02,Cover - Points (metric),Y,TC1
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Trees - Individuals (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Cover - Points (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Post Burn Severity (metric),N,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Density - Quadrats (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Cover - Species Composition (metric),Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Surface Fuels,Y,
+CRLA,FPIPO1D09,B:FPIPO1D09:14,N,7/18/11 15:26,Re01year10,01Yr10,Density - Belts (metric),Y,
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/12/06 13:53,,00Pre,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,9/9/07 15:07,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:01,N,8/16/11 13:48,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/13/06 16:12,,00Pre,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,9/9/07 16:12,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:02,N,8/16/11 13:49,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/13/06 16:13,,00Pre,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,9/9/07 16:13,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:03,N,8/15/11 13:49,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/13/06 16:14,,00Pre,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,9/9/07 16:14,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:04,N,8/15/11 13:50,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,7/25/07 12:36,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:05,N,8/20/11 13:50,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,7/26/07 9:36,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:06,N,8/20/11 13:51,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,7/28/07 10:43,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:07,N,8/19/11 13:51,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,7/24/07 16:17,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:08,N,8/17/11 13:52,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,7/26/07 15:00,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:09,N,8/17/11 13:52,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,7/27/07 11:44,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:10,N,8/18/11 13:54,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,7/28/07 13:02,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:11,N,8/18/11 13:54,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,7/27/07 13:39,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:12,N,8/18/11 13:55,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,7/28/07 14:37,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:13,N,8/19/11 13:55,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Post Burn Severity (metric),N,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Density - Quadrats (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Cover - Species Composition (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Surface Fuels,Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Density - Belts (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Cover/Frequency (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Trees - Individuals (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,7/28/07 15:32,,01Yr01,Cover - Points (metric),Y,Bybee WF
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Post Burn Severity (metric),N,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,B:FTSME1BY08:14,N,8/19/11 13:56,Re01Year05,01Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:15,N,8/19/11 13:59,Re00Year05,00Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:16,N,8/20/11 14:05,Re00Year05,00Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:17,N,8/20/11 14:04,Re00Year05,00Yr05,Cover - Points (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Density - Quadrats (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Cover - Species Composition (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Surface Fuels,Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Density - Belts (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Cover/Frequency (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Trees - Individuals (metric),Y,Bybee
+CRLA,FTSME1BY08,C:FTSME1BY08:18,N,8/19/11 14:02,Re00Year05,00Yr05,Cover - Points (metric),Y,Bybee
