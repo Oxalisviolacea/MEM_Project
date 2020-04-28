@@ -1,0 +1,17 @@
+ProjectUnit = Sunset Fuels
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Post-Attr,01Post-Diff,01Post-%Diff
+SunsetFuels_001,4.42,4.25,-0.17,-3.82
+SunsetFuels_002,1.61,0.98,-0.63,-39.22
+SunsetFuels_003,19.12,7.12,-12.00,-62.75
+SunsetFuels_004,0.00,0.00,0.00,0.00
+SunsetFuels_005,0.58,4.26,3.68,638.54
+SunsetFuels_006,4.07,7.49,3.42,84.15
+SunsetFuels_007,0.56,2.39,1.83,328.28
+SunsetFuels_008,6.75,6.75,0.00,0.00
+SunsetFuels_009,0.60,0.70,0.10,16.30
+SunsetFuels_010,0.72,0.72,0.00,0.00
+Mean,3.84,3.47,0.38,9.79

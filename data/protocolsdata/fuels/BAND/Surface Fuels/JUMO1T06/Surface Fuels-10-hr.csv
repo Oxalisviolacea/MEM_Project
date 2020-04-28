@@ -1,0 +1,12 @@
+ProjectUnit = JUMO1T06
+Summary Report = Surface Fuels
+Report Attribute = 10-hr
+Units = Tons per Acre
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,01YEAR5-Attr,01YEAR5-Diff,01YEAR5-%Diff
+B_FJUMO1T06_01,0.68,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_02,0.38,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_03,1.82,0.61,-1.22,-66.67,0.84,-0.99,-54.17,1.14,-0.68,-37.49,1.52,-0.30,-16.67
+B_FJUMO1T06_04,0.46,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_05,0.61,***,***,***,***,***,***,***,***,***,***,***,***
+Mean,0.79,0.61,0.18,23.08,0.84,-0.05,-5.77,1.14,-0.35,-44.26,1.52,-0.73,-92.31

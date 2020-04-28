@@ -1,0 +1,9 @@
+ProjectUnit = POTR1T08
+Summary Report = Surface Fuels
+Report Attribute = Litter
+Units = Tons per Acre
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,02YEAR1-Attr,02YEAR1-Diff,02YEAR1-%Diff
+B_FPOTR1T08_02,4.59,5.38,0.79,17.12,4.22,-0.37,-8.15,2.25,-2.35,-51.09,4.12,-0.47,-10.33
+B_FPOTR1T08_03,2.30,5.29,2.99,130.43,1.22,-1.07,-46.74,2.06,-0.24,-10.33,1.93,-0.36,-15.76
+Mean,3.44,5.33,-1.89,-54.89,2.72,0.72,21.01,2.15,1.29,37.50,3.03,0.42,12.14

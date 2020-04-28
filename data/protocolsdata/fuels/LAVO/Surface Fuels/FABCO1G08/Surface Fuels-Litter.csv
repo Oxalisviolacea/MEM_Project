@@ -1,0 +1,9 @@
+ProjectUnit = FABCO1G08
+Summary Report = Surface Fuels
+Report Attribute = Litter
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr11-Attr,01Yr11-Diff,01Yr11-%Diff
+B:FABCO1G08:01,5.93,2.10,-3.83,-64.63,2.26,-3.67,-61.89,3.86,-2.07,-34.95,1.40,-4.53,-76.42
+B:FABCO1G08:02,8.46,1.32,-7.14,-84.37,3.51,-4.95,-58.55,4.01,-4.45,-52.65,2.35,-6.11,-72.27
+Mean,7.19,1.71,5.48,76.24,2.88,4.31,59.93,3.93,3.26,45.36,1.87,5.32,73.98

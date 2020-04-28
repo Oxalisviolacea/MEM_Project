@@ -1,0 +1,10 @@
+ProjectUnit = FPICO3D08
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,00Pro1-Attr,00Pre-Attr,00Pre-Diff,00Pre-%Diff,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr09-Attr,01Yr09-Diff,01Yr09-%Diff
+B:FPICO3D08:02,7.63,10.19,2.56,33.61,1.92,-5.70,-74.80,30.65,23.02,301.93,***,***,***,***,***,***
+B:FPICO3D08:03,11.91,2.91,-9.00,-75.57,0.78,-11.14,-93.49,3.03,-8.88,-74.55,***,***,***,***,***,***
+B:FPICO3D08:01,***,26.09,***,***,6.21,***,***,9.46,***,***,11.06,***,***,27.55,***,***
+Mean,9.77,13.06,-3.30,-33.73,2.97,6.80,69.60,14.38,-4.61,-47.19,11.06,-1.29,-13.25,27.55,-17.78,-182.05

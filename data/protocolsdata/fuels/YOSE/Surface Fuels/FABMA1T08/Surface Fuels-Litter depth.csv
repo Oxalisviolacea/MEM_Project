@@ -1,0 +1,9 @@
+ProjectUnit = FABMA1T08
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff,02YR01-Attr,02YR01-Diff,02YR01-%Diff
+FABMA1T0801,1.10,0.05,-1.05,-95.43,0.25,-0.85,-77.40,0.23,-0.87,-79.45,0.52,-0.58,-52.97,2.24,1.15,104.57,0.26,-0.84,-76.48
+FABMA1T0802,0.54,0.39,-0.15,-27.31,0.26,-0.28,-52.31,0.39,-0.15,-28.24,0.62,0.08,14.35,2.41,1.87,345.37,***,***,***
+Mean,0.82,0.22,0.60,72.94,0.25,0.57,69.11,0.31,0.51,62.54,0.57,0.25,30.73,2.32,-1.51,-184.10,0.26,0.56,68.50

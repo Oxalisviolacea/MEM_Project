@@ -1,0 +1,10 @@
+ProjectUnit = FPICO3D08
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,00Pro1-Attr,00Pre-Attr,00Pre-Diff,00Pre-%Diff,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr09-Attr,01Yr09-Diff,01Yr09-%Diff
+B:FPICO3D08:02,12.45,5.67,-6.79,-54.51,5.62,-6.84,-54.91,1.05,-11.41,-91.58,***,***,***,***,***,***
+B:FPICO3D08:03,5.14,5.76,0.62,12.14,2.80,-2.35,-45.63,1.77,-3.37,-65.53,***,***,***,***,***,***
+B:FPICO3D08:01,***,10.03,***,***,4.59,***,***,3.62,***,***,0.55,***,***,1.72,***,***
+Mean,8.80,7.15,1.64,18.68,4.33,4.46,50.73,2.15,6.65,75.60,0.55,8.25,93.76,1.72,7.08,80.43

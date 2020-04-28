@@ -1,0 +1,17 @@
+ProjectUnit = WILDCAT
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,PRE-Attr
+WILD_01,0.00
+WILD_02,4.60
+WILD_03,0.00
+WILD_04,7.28
+WILD_05,3.05
+WILD_06,49.56
+WILD_07,1.17
+WILD_08,16.93
+WILD_09,0.00
+WILD_10,52.74
+Mean,13.53

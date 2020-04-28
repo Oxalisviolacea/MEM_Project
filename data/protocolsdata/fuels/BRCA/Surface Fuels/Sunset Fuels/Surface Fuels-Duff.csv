@@ -1,0 +1,17 @@
+ProjectUnit = Sunset Fuels
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Post-Attr,01Post-Diff,01Post-%Diff
+SunsetFuels_001,1.45,1.11,-0.34,-23.53
+SunsetFuels_002,2.30,0.94,-1.36,-59.26
+SunsetFuels_003,2.04,0.17,-1.87,-91.67
+SunsetFuels_004,0.09,0.09,0.00,0.00
+SunsetFuels_005,2.30,0.43,-1.87,-81.48
+SunsetFuels_006,0.60,0.60,0.00,0.00
+SunsetFuels_007,4.09,0.60,-3.49,-85.42
+SunsetFuels_008,1.79,1.79,0.00,0.00
+SunsetFuels_009,0.85,1.45,0.60,70.00
+SunsetFuels_010,1.28,1.28,0.00,0.00
+Mean,1.68,0.84,0.83,49.75

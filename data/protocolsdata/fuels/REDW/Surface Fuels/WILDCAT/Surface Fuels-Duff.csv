@@ -1,0 +1,17 @@
+ProjectUnit = WILDCAT
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,PRE-Attr
+WILD_01,4.09
+WILD_02,3.39
+WILD_03,11.68
+WILD_04,3.29
+WILD_05,8.09
+WILD_06,11.58
+WILD_07,4.09
+WILD_08,5.69
+WILD_09,7.19
+WILD_10,3.99
+Mean,6.31

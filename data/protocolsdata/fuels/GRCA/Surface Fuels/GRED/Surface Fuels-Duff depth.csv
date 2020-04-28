@@ -1,0 +1,13 @@
+ProjectUnit = GRED
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,Pre-Attr
+GRED 01,1.35
+GRED 02,0.33
+GRED 03,0.36
+GRED 04,0.73
+GRED 05,0.12
+GRED 06,0.64
+Mean,0.59

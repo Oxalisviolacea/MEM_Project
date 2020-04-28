@@ -1,0 +1,17 @@
+ProjectUnit = Sunset Fuels
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,00Pre-Attr,01Post-Attr,01Post-Diff,01Post-%Diff
+SunsetFuels_001,0.19,0.29,0.10,54.05
+SunsetFuels_002,0.22,0.16,-0.06,-27.27
+SunsetFuels_003,0.31,0.09,-0.22,-70.49
+SunsetFuels_004,0.03,0.03,0.00,0.00
+SunsetFuels_005,0.34,0.15,-0.19,-55.22
+SunsetFuels_006,0.19,0.14,-0.05,-27.03
+SunsetFuels_007,0.15,0.12,-0.03,-17.24
+SunsetFuels_008,0.30,0.30,0.00,0.00
+SunsetFuels_009,0.12,0.15,0.03,20.83
+SunsetFuels_010,0.14,0.14,0.00,0.00
+Mean,0.20,0.16,0.04,20.87

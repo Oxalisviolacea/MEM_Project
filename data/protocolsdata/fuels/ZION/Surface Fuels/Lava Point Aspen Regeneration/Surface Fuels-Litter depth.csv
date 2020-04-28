@@ -1,0 +1,9 @@
+ProjectUnit = Lava Point Aspen Regeneration
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,00 PreThin-Attr,01 PostThin-Attr,01 PostThin-Diff,01 PostThin-%Diff,01Thin yr01-Attr,01Thin yr01-Diff,01Thin yr01-%Diff,01T & B yr06-Attr,01T & B yr06-Diff,01T & B yr06-%Diff,01Thin yr06-Attr,01Thin yr06-Diff,01Thin yr06-%Diff,01Thinyr10-Attr,01Thinyr10-Diff,01Thinyr10-%Diff
+ABCO-33,0.17,0.82,0.66,391.04,1.03,0.86,511.94,0.22,0.05,28.36,***,***,***,0.47,0.31,182.09
+ABCO-34,0.15,***,***,***,***,***,***,***,***,***,0.17,0.01,8.20,0.45,0.29,191.80
+Mean,0.16,0.82,-0.66,-414.06,1.03,-0.87,-540.63,0.22,-0.06,-34.38,0.17,-0.01,-3.13,0.46,-0.30,-186.72

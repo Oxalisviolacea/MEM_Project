@@ -1,0 +1,9 @@
+ProjectUnit = FABMA1T08
+Summary Report = Surface Fuels
+Report Attribute = Litter
+Units = Tons per Acre
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff,02YR01-Attr,02YR01-Diff,02YR01-%Diff
+FABMA1T0801,5.47,0.25,-5.22,-95.43,1.24,-4.23,-77.40,1.12,-4.34,-79.45,2.57,-2.89,-52.97,11.18,5.71,104.57,1.29,-4.18,-76.48
+FABMA1T0802,2.70,1.96,-0.74,-27.31,1.29,-1.41,-52.31,1.93,-0.76,-28.24,3.08,0.39,14.35,12.00,9.31,345.37,***,***,***
+Mean,4.08,1.10,2.98,72.94,1.26,2.82,69.11,1.53,2.55,62.54,2.83,1.25,30.73,11.59,-7.51,-184.10,1.29,2.80,68.50

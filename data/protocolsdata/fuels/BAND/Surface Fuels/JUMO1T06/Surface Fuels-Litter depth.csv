@@ -1,0 +1,12 @@
+ProjectUnit = JUMO1T06
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,01YEAR5-Attr,01YEAR5-Diff,01YEAR5-%Diff
+B_FJUMO1T06_01,0.45,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_02,0.40,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_03,0.36,0.18,-0.18,-50.70,0.22,-0.14,-38.03,0.19,-0.16,-45.77,0.24,-0.12,-32.39
+B_FJUMO1T06_04,0.15,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_05,0.38,***,***,***,***,***,***,***,***,***,***,***,***
+Mean,0.35,0.18,0.17,49.64,0.22,0.13,36.69,0.19,0.16,44.60,0.24,0.11,30.94

@@ -1,0 +1,8 @@
+ProjectUnit = Inactive
+Summary Report = Surface Fuels
+Report Attribute = Total
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+B:FPIPO1D09:52,16.44
+Mean,16.44

@@ -1,0 +1,17 @@
+ProjectUnit = WILDCAT
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,PRE-Attr
+WILD_01,0.41
+WILD_02,0.34
+WILD_03,1.17
+WILD_04,0.33
+WILD_05,0.81
+WILD_06,1.16
+WILD_07,0.41
+WILD_08,0.57
+WILD_09,0.72
+WILD_10,0.40
+Mean,0.63

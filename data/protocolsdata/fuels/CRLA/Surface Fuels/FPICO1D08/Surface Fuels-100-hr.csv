@@ -1,0 +1,8 @@
+ProjectUnit = FPICO1D08
+Summary Report = Surface Fuels
+Report Attribute = 100-hr
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr09-Attr,01Yr09-Diff,01Yr09-%Diff
+B:FPICO1D08:03,5.45,0.61,-4.84,-88.89,0.91,-4.54,-83.33,0.91,-4.54,-83.33,2.12,-3.33,-61.10
+Mean,5.45,0.61,4.84,88.89,0.91,4.54,83.33,0.91,4.54,83.33,2.12,3.33,61.10

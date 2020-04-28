@@ -1,0 +1,9 @@
+ProjectUnit = FABMA1T08
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Rotten
+Units = Tons per Acre
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff,02YR01-Attr,02YR01-Diff,02YR01-%Diff
+FABMA1T0801,9.29,0.79,-8.51,-91.54,2.87,-6.42,-69.13,4.90,-4.39,-47.23,3.19,-6.11,-65.70,7.92,-1.38,-14.80,1.17,-8.12,-87.37
+FABMA1T0802,23.52,1.18,-22.34,-94.97,4.16,-19.36,-82.30,0.47,-23.05,-97.99,2.77,-20.75,-88.23,3.74,-19.78,-84.11,***,***,***
+Mean,16.41,0.98,15.42,94.00,3.52,12.89,78.57,2.69,13.72,83.62,2.98,13.43,81.85,5.83,10.58,64.48,1.17,15.23,92.85

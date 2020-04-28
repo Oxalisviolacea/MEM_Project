@@ -1,0 +1,17 @@
+ProjectUnit = Sunset Fuels
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Rotten
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Post-Attr,01Post-Diff,01Post-%Diff
+SunsetFuels_001,0.00,0.00,0.00,0.00
+SunsetFuels_002,0.00,0.00,0.00,0.00
+SunsetFuels_003,4.21,0.00,-4.21,-100.00
+SunsetFuels_004,0.00,0.00,0.00,0.00
+SunsetFuels_005,0.00,0.00,0.00,0.00
+SunsetFuels_006,2.31,1.58,-0.73,-31.76
+SunsetFuels_007,0.00,0.00,0.00,0.00
+SunsetFuels_008,9.19,9.19,0.00,0.00
+SunsetFuels_009,0.00,0.00,0.00,0.00
+SunsetFuels_010,0.00,0.00,0.00,0.00
+Mean,1.57,1.08,0.49,31.49

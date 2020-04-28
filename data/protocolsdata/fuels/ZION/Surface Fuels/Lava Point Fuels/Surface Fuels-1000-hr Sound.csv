@@ -1,0 +1,12 @@
+ProjectUnit = Lava Point Fuels
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 105,1.53
+Browns 195,15.68
+Browns 255,57.58
+Browns 345,32.33
+Browns 60,17.40
+Mean,24.90

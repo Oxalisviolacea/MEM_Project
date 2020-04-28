@@ -1,0 +1,13 @@
+ProjectUnit = GRED
+Summary Report = Surface Fuels
+Report Attribute = 100-hr
+Units = Tons per Acre
+
+Macroplot,Pre-Attr
+GRED 01,6.73
+GRED 02,0.00
+GRED 03,0.00
+GRED 04,1.21
+GRED 05,3.03
+GRED 06,1.21
+Mean,2.03

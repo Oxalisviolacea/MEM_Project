@@ -1,0 +1,12 @@
+ProjectUnit = JUMO1T06
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,01YEAR5-Attr,01YEAR5-Diff,01YEAR5-%Diff
+B_FJUMO1T06_01,1.21,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_02,0.25,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_03,1.11,0.56,-0.55,-49.74,1.57,0.46,41.11,1.71,0.60,53.69,1.21,0.10,8.87
+B_FJUMO1T06_04,0.29,***,***,***,***,***,***,***,***,***,***,***,***
+B_FJUMO1T06_05,0.00,***,***,***,***,***,***,***,***,***,***,***,***
+Mean,0.57,0.56,0.01,2.22,1.57,-1.00,-174.54,1.71,-1.14,-199.01,1.21,-0.64,-111.81

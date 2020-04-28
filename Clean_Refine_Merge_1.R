@@ -11,6 +11,8 @@ library(tidyr)
 library(stringr)
 library(dplyr)
 library(lubridate)
+library(ggplot2)
+library(MASS)
 
 #---
 
@@ -27,6 +29,9 @@ ALL_SampleEventReports_RAW = ldply(myfiles, read_csv)
 
 #---
 
+##create a new data frame to edit
+ALL_SampleEventReports <- ALL_SampleEventReports_RAW
+
 #remove duplicate sample event records
 ALL_SampleEventReports_RAW <- ALL_SampleEventReports_RAW[!grepl("Y", ALL_SampleEventReports_RAW$Multi_PU),]
 
@@ -34,46 +39,45 @@ ALL_SampleEventReports_RAW <- ALL_SampleEventReports_RAW[!grepl("Y", ALL_SampleE
 
 #drop and rename variables
 ##drop unnecessary variables, Multi_PU and Visited
-ALL_SampleEventReports_RAW = subset(ALL_SampleEventReports_RAW, select = -c(Multi_PU, Visited))
+ALL_SampleEventReports = subset(ALL_SampleEventReports, select = -c(Multi_PU, Visited))
 
 ##rename the other variables
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "RegistrationUnit_Name"] <- "Park"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "ProjectUnit_Name"] <- "Project_Unit"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "SampleEvent_Date"] <- "Sample_Date"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "SampleEvent_DefaultMonitoringStatus"] <- "PM_MonStat_FFI"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "MonitoringStatus_Name"] <- "RA_MonStat_FFI"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "SampleEvent_TreatmentUnit"] <- "Treatment_Unit"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "ProjectUnit_Name"] <- "Project_Unit"
-names(ALL_SampleEventReports_RAW)[names(ALL_SampleEventReports_RAW) == "MacroPlot_Name"] <- "MacroPlot_Name_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "RegistrationUnit_Name"] <- "Park"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "ProjectUnit_Name"] <- "Project_Unit_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "SampleEvent_Date"] <- "Sample_Date_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "SampleEvent_DefaultMonitoringStatus"] <- "PM_MonStat_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "MonitoringStatus_Name"] <- "RA_MonStat_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "SampleEvent_TreatmentUnit"] <- "Treatment_Unit_FFI"
+names(ALL_SampleEventReports)[names(ALL_SampleEventReports) == "MacroPlot_Name"] <- "MacroPlot_Name_FFI"
 
 #---
 
 #consolidate the rows and create a new variable for each protocol
 ##subset and create a new dataframe for each protocol
-SampleEventReports_withTrees <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Trees - Individuals (metric)")
+SampleEventReports_withTrees <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Trees - Individuals (metric)")
 names(SampleEventReports_withTrees)[names(SampleEventReports_withTrees) == "Protocols"] <- "Protocol_Trees"
 
-SampleEventReports_withSeedlings <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Density - Quadrats (metric)")
+SampleEventReports_withSeedlings <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Density - Quadrats (metric)")
 names(SampleEventReports_withSeedlings)[names(SampleEventReports_withSeedlings) == "Protocols"] <- "Protocol_Seedlings"
 
-SampleEventReports_withShrubs <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Density - Belts (metric)")
+SampleEventReports_withShrubs <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Density - Belts (metric)")
 names(SampleEventReports_withShrubs)[names(SampleEventReports_withShrubs) == "Protocols"] <- "Protocol_Shrubs"
 
-SampleEventReports_withVeg <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Cover - Points (metric)")
+SampleEventReports_withVeg <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Cover - Points (metric)")
 names(SampleEventReports_withVeg)[names(SampleEventReports_withVeg) == "Protocols"] <- "Protocol_Veg"
 
-SampleEventReports_withFuels <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Surface Fuels")
+SampleEventReports_withFuels <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Surface Fuels")
 names(SampleEventReports_withFuels)[names(SampleEventReports_withFuels) == "Protocols"] <- "Protocol_Fuels"
 
-SampleEventReports_withPostburn <- filter(ALL_SampleEventReports_RAW, ALL_SampleEventReports_RAW$Protocols == "Post Burn Severity (metric)")
+SampleEventReports_withPostburn <- filter(ALL_SampleEventReports, ALL_SampleEventReports$Protocols == "Post Burn Severity (metric)")
 names(SampleEventReports_withPostburn)[names(SampleEventReports_withPostburn) == "Protocols"] <- "Protocol_Postburn"
 
 ##merge the dataframes
-SampleEventReports_ProtocolsTS <- merge(SampleEventReports_withTrees, SampleEventReports_withSeedlings, by=c("Park", "Project_Unit", "MacroPlot_Name_FFI", "Sample_Date", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit"), all = TRUE)
-SampleEventReports_ProtocolsTSS <- merge(SampleEventReports_ProtocolsTS, SampleEventReports_withShrubs, by=c("Park", "Project_Unit", "MacroPlot_Name_FFI", "Sample_Date", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit"), all = TRUE)
-SampleEventReports_ProtocolsTSSV <- merge(SampleEventReports_ProtocolsTSS, SampleEventReports_withVeg, by=c("Park", "Project_Unit", "MacroPlot_Name_FFI", "Sample_Date", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit"), all = TRUE)
-SampleEventReports_ProtocolsTSSVF <- merge(SampleEventReports_ProtocolsTSSV, SampleEventReports_withFuels, by=c("Park", "Project_Unit", "MacroPlot_Name_FFI", "Sample_Date", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit"), all = TRUE)
-SampleEventReports_AllProtocols <- merge(SampleEventReports_ProtocolsTSSVF, SampleEventReports_withPostburn, by=c("Park", "Project_Unit", "MacroPlot_Name_FFI", "Sample_Date", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit"), all = TRUE)
+SampleEventReports_ProtocolsTS <- merge(SampleEventReports_withTrees, SampleEventReports_withSeedlings, by=c("Park", "Project_Unit_FFI", "MacroPlot_Name_FFI", "Sample_Date_FFI", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit_FFI"), all = TRUE)
+SampleEventReports_ProtocolsTSS <- merge(SampleEventReports_ProtocolsTS, SampleEventReports_withShrubs, by=c("Park", "Project_Unit_FFI", "MacroPlot_Name_FFI", "Sample_Date_FFI", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit_FFI"), all = TRUE)
+SampleEventReports_ProtocolsTSSV <- merge(SampleEventReports_ProtocolsTSS, SampleEventReports_withVeg, by=c("Park", "Project_Unit_FFI", "MacroPlot_Name_FFI", "Sample_Date_FFI", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit_FFI"), all = TRUE)
+SampleEventReports_ProtocolsTSSVF <- merge(SampleEventReports_ProtocolsTSSV, SampleEventReports_withFuels, by=c("Park", "Project_Unit_FFI", "MacroPlot_Name_FFI", "Sample_Date_FFI", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit_FFI"), all = TRUE)
+SampleEventReports_AllProtocols <- merge(SampleEventReports_ProtocolsTSSVF, SampleEventReports_withPostburn, by=c("Park", "Project_Unit_FFI", "MacroPlot_Name_FFI", "Sample_Date_FFI", "PM_MonStat_FFI", "RA_MonStat_FFI", "Treatment_Unit_FFI"), all = TRUE)
 
 ##change the protocols values to 1 if surveyed and 0 if not surveyed
 SampleEventReports_AllProtocols$Protocol_Trees <- 1*!is.na(SampleEventReports_AllProtocols[SampleEventReports_AllProtocols$Protocol_Trees == "Trees - Individuals (metric)",]$Protocol_Trees)
@@ -99,11 +103,11 @@ SampleEventReports_PlotsTreesFuels$Park <- factor(SampleEventReports_PlotsTreesF
 
 #---
 
-#check for inconsistencies in Project_Unit values - replace spaces with underscores
-unique(SampleEventReports_PlotsTreesFuels$Project_Unit)
-SampleEventReports_PlotsTreesFuels$Project_Unit <- gsub("[[:space:]]", "_", SampleEventReports_PlotsTreesFuels$Project_Unit)
-##change Project_Unit to a factor
-SampleEventReports_PlotsTreesFuels$Project_Unit <- factor(SampleEventReports_PlotsTreesFuels$Project_Unit)
+#check for inconsistencies in Project_Unit_FFI values - replace spaces with underscores
+unique(SampleEventReports_PlotsTreesFuels$Project_Unit_FFI)
+SampleEventReports_PlotsTreesFuels$Project_Unit_FFI <- gsub("[[:space:]]", "_", SampleEventReports_PlotsTreesFuels$Project_Unit_FFI)
+##change Project_Unit_FFI to a factor
+SampleEventReports_PlotsTreesFuels$Project_Unit_FFI <- factor(SampleEventReports_PlotsTreesFuels$Project_Unit_FFI)
 
 #---
   
@@ -180,9 +184,6 @@ SampleEventReports_PlotsTreesFuels[SampleEventReports_PlotsTreesFuels$Park == "Z
 SampleEventReports_PlotsTreesFuels[SampleEventReports_PlotsTreesFuels$Park == "ZION",]$MacroPlot_Name_HD <- gsub("POTR-", "_POTR____", SampleEventReports_PlotsTreesFuels$MacroPlot_Name_HD)[SampleEventReports_PlotsTreesFuels$Park == "ZION"]
 ##used underscores for missing values
 
-#draft - fix inconsitencies in Sample_Date
-#SampleEventReports_PlotsTreesFuels$Sample_Date <- parse_date_time(SampleEventReports_PlotsTreesFuels$Sample_Date, orders=c("%m%d%Y", "%m-%d-%Y %I:%M:%S %p"), exact=TRUE)
-
 #---
 
 #fix monitoring status values
@@ -250,7 +251,8 @@ SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD_firstsix <- substring(Samp
 SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD_HD <- paste(SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD_firstsix, SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD_lasttwo, sep="") #paste the first six and the last two together
 SampleEventReports_AllProtocols_MonStat = subset(SampleEventReports_AllProtocols_MonStat, select = -c(PM_MonStat_HD_lasttwo, PM_MonStat_HD_firstsix,PM_MonStat_HD))
 names(SampleEventReports_AllProtocols_MonStat)[names(SampleEventReports_AllProtocols_MonStat) == "PM_MonStat_HD_HD"] <- "PM_MonStat_HD"
-
+as.factor(SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD)
+SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD[SampleEventReports_AllProtocols_MonStat$PM_MonStat_HD== "NANA"]<- NA
 
 ##fix similar problems with RA_MonStat_HD values
 ###first two digits are the burn cycle, how many times has the plot been treated, 
@@ -326,5 +328,11 @@ SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD_firstsix <- substring (Sam
 SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD_HD <- paste (SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD_firstsix, SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD_lasttwo, sep="") #paste the first six and the last two together
 SampleEventReports_AllProtocols_MonStat = subset(SampleEventReports_AllProtocols_MonStat, select = -c(RA_MonStat_HD_lasttwo, RA_MonStat_HD_firstsix, RA_MonStat_HD))
 names(SampleEventReports_AllProtocols_MonStat)[names(SampleEventReports_AllProtocols_MonStat) == "RA_MonStat_HD_HD"] <- "RA_MonStat_HD"
+as.factor(SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD)
+SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD[SampleEventReports_AllProtocols_MonStat$RA_MonStat_HD== "NANA"]<- NA
 
+#change Sample_Date_FFI to a date
+as.character(SampleEventReports_AllProtocols_MonStat$Sample_Date_FFI)
+unique(SampleEventReports_AllProtocols_MonStat$Sample_Date_FFI)
+parse_date_time(SampleEventReports_AllProtocols_MonStat$Sample_Date_FFI, c("m(!*)/d(!)/y(!*)", "m(!*)/d(!)/Y(!)", "m(!*)/d(!)/y(!*) H(!):M(!)", "m(!*)/d(!)/y(!*) I(!):M(!):S(!) Op(!*)", "m(!*)/d(!)/Y(!) H(!):M(!)", "m(!*)/d(!)/Y(!) I(!):M(!):S(!) Op(!*)"))
 

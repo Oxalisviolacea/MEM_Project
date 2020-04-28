@@ -1,0 +1,10 @@
+ProjectUnit = FCADE1T10
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,Pre00-Attr,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff
+FCADE1T1001,1.09,0.63,-0.46,-42.40,0.25,-0.84,-77.42,0.60,-0.49,-44.93,0.77,-0.32,-29.49
+FCADE1T1002,1.83,0.23,-1.61,-87.72,0.52,-1.32,-71.76,0.55,-1.29,-70.12,0.96,-0.88,-47.89
+FCADE1T1003,1.35,0.73,-0.62,-45.64,0.39,-0.96,-71.06,0.42,-0.93,-69.20,1.17,-0.18,-13.17
+Mean,1.42,0.53,0.89,62.90,0.38,1.04,72.98,0.52,0.90,63.42,0.96,0.46,32.24

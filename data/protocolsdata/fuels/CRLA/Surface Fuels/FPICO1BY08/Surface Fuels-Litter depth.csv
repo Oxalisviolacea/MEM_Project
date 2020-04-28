@@ -1,0 +1,11 @@
+ProjectUnit = FPICO1BY08
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,01Yr01-Attr,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff
+B:FPICO1BY08:01,0.03,0.28,0.25,833.33
+B:FPICO1BY08:02,1.04,0.32,-0.72,-69.23
+B:FPICO1BY08:03,0.07,0.54,0.47,671.43
+B:FPICO1BY08:04,0.06,0.14,0.08,133.33
+Mean,0.30,0.32,-0.02,-6.67
