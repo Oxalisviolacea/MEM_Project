@@ -185,7 +185,6 @@ as.numeric(SampleEvent_Macroplot_Merge$Plot_Slope_pct_FFI)
 
 
 
-
 #--- DRAFT ----------------------------------------------------------------------------------------------------
 
 ##create a new column called MonStat_HD to show new fixed monitoring status
