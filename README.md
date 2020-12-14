@@ -1,6 +1,1 @@
-# MEM_Project
-
-PULL
-STAGE
-COMMIT
-PUSH
+# Thresholds for Fire-Induced Tree Mortality
