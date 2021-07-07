@@ -1,0 +1,14 @@
+ProjectUnit = Pocket Mesa Fuels
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 11,11.44
+Browns 12,6.77
+Browns 17,4.22
+Browns 24,2.51
+Browns 25,3.77
+Browns 32,8.63
+Browns 34,5.15
+Mean,6.07

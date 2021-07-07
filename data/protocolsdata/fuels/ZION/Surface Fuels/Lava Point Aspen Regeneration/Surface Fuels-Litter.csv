@@ -1,0 +1,9 @@
+ProjectUnit = Lava Point Aspen Regeneration
+Summary Report = Surface Fuels
+Report Attribute = Litter
+Units = Tons per Acre
+
+Macroplot,00 PreThin-Attr,01 PostThin-Attr,01 PostThin-Diff,01 PostThin-%Diff,01Thin yr01-Attr,01Thin yr01-Diff,01Thin yr01-%Diff,01T & B yr06-Attr,01T & B yr06-Diff,01T & B yr06-%Diff,01Thin yr06-Attr,01Thin yr06-Diff,01Thin yr06-%Diff,01Thinyr10-Attr,01Thinyr10-Diff,01Thinyr10-%Diff
+ABCO-33,1.38,6.78,5.40,391.04,8.45,7.07,511.94,1.77,0.39,28.36,***,***,***,3.89,2.51,182.09
+ABCO-34,1.26,***,***,***,***,***,***,***,***,***,1.36,0.10,8.20,3.67,2.41,191.80
+Mean,1.32,6.78,-5.46,-414.06,8.45,-7.13,-540.63,1.77,-0.45,-34.38,1.36,-0.04,-3.13,3.78,-2.46,-186.72

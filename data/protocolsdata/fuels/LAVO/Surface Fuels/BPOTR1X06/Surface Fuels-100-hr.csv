@@ -1,0 +1,8 @@
+ProjectUnit = BPOTR1X06
+Summary Report = Surface Fuels
+Report Attribute = 100-hr
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,00Yr05-Attr,00Yr05-Diff,00Yr05-%Diff,Thin01Post-Attr,Thin01Post-Diff,Thin01Post-%Diff,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff
+B:BPOTR1X06:01,4.90,26.63,21.73,443.20,0.00,-4.90,-100.00,9.68,4.78,97.53
+Mean,4.90,26.63,-21.73,-443.20,0.00,4.90,100.00,9.68,-4.78,-97.53

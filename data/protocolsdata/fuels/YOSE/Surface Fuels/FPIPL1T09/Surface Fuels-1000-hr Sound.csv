@@ -1,0 +1,8 @@
+ProjectUnit = FPIPL1T09
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Pre00Year01-Attr,Pre00Year01-Diff,Pre00Year01-%Diff
+FPIPL1T0913,4.54,1.98,-2.56,-56.41,7.83,3.29,72.45
+Mean,4.54,1.98,2.56,56.41,7.83,-3.29,-72.45

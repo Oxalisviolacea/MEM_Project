@@ -1,0 +1,9 @@
+ProjectUnit = FABCO1G08
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr11-Attr,01Yr11-Diff,01Yr11-%Diff
+B:FABCO1G08:01,18.16,15.99,-2.17,-11.94,18.95,0.80,4.38,15.85,-2.31,-12.70,13.08,-5.08,-27.99
+B:FABCO1G08:02,2.72,2.03,-0.69,-25.28,1.43,-1.29,-47.51,18.13,15.41,566.99,47.04,44.32,1630.48
+Mean,10.44,9.01,1.43,13.67,10.19,0.25,2.38,16.99,-6.55,-62.78,30.06,-19.62,-187.95

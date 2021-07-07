@@ -1,0 +1,9 @@
+ProjectUnit = FQUCH1D09
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,00PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YR01-Attr,01YR01-Diff,01YR01-%Diff,01YR02-Attr,01YR02-Diff,01YR02-%Diff
+FQUCH1D0901,2.87,0.02,-2.85,-99.13,0.02,-2.85,-99.13,0.00,-2.87,-100.00
+FQUCH1D0902,4.32,***,***,***,***,***,***,***,***,***
+Mean,3.59,0.02,3.57,99.31,0.02,3.57,99.31,0.00,3.59,100.00

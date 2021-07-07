@@ -1,0 +1,10 @@
+ProjectUnit = FPICO3D08
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,00Pro1-Attr,00Pre-Attr,00Pre-Diff,00Pre-%Diff,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr09-Attr,01Yr09-Diff,01Yr09-%Diff
+B:FPICO3D08:02,1.25,0.57,-0.68,-54.51,0.56,-0.69,-54.91,0.11,-1.14,-91.58,***,***,***,***,***,***
+B:FPICO3D08:03,0.52,0.58,0.06,12.14,0.28,-0.24,-45.63,0.18,-0.34,-65.53,***,***,***,***,***,***
+B:FPICO3D08:01,***,1.01,***,***,0.46,***,***,0.36,***,***,0.06,***,***,0.17,***,***
+Mean,0.88,0.72,0.16,18.68,0.43,0.45,50.73,0.22,0.67,75.60,0.06,0.83,93.76,0.17,0.71,80.43

@@ -1,0 +1,9 @@
+ProjectUnit = FMCMM1T09
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,Pre00Year01-Attr,Pre00-Attr,Pre00-Diff,Pre00-%Diff,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff
+FMCMM1T0907,0.00,0.00,0.00,0.00,0.00,0.00,0.00,2.78,2.78,***,3.93,3.93,***
+FMCMM1T0908,0.21,4.19,3.98,1899.68,3.88,3.67,1751.82,2.11,1.90,906.63,3.10,2.89,1376.96
+Mean,0.10,2.10,-1.99,-1899.68,1.94,-1.84,-1751.82,2.45,-2.34,-2233.21,3.52,-3.41,-3253.99

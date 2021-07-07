@@ -1,0 +1,12 @@
+ProjectUnit = Lava Point Fuels
+Summary Report = Surface Fuels
+Report Attribute = Total
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 105,8.51
+Browns 195,27.29
+Browns 255,80.67
+Browns 345,43.48
+Browns 60,38.83
+Mean,39.76

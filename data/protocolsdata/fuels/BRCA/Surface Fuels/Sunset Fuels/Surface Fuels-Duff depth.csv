@@ -1,0 +1,17 @@
+ProjectUnit = Sunset Fuels
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,00Pre-Attr,01Post-Attr,01Post-Diff,01Post-%Diff
+SunsetFuels_001,0.09,0.07,-0.02,-23.53
+SunsetFuels_002,0.14,0.06,-0.08,-59.26
+SunsetFuels_003,0.12,0.01,-0.11,-91.67
+SunsetFuels_004,0.01,0.01,0.00,0.00
+SunsetFuels_005,0.14,0.03,-0.11,-81.48
+SunsetFuels_006,0.04,0.04,0.00,0.00
+SunsetFuels_007,0.24,0.04,-0.21,-85.42
+SunsetFuels_008,0.11,0.11,0.00,0.00
+SunsetFuels_009,0.05,0.09,0.04,70.00
+SunsetFuels_010,0.08,0.08,0.00,0.00
+Mean,0.10,0.05,0.05,49.75

@@ -1,0 +1,9 @@
+ProjectUnit = FMCMM1T09
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,Pre00Year01-Attr,Pre00-Attr,Pre00-Diff,Pre00-%Diff,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff
+FMCMM1T0907,12.15,14.23,2.07,17.04,2.67,-9.48,-78.03,2.89,-9.26,-76.18,2.05,-10.11,-83.16
+FMCMM1T0908,8.96,14.92,5.96,66.57,4.12,-4.84,-54.04,5.22,-3.74,-41.78,5.09,-3.87,-43.18
+Mean,10.56,14.57,-4.02,-38.06,3.39,7.16,67.85,4.06,6.50,61.58,3.57,6.99,66.19

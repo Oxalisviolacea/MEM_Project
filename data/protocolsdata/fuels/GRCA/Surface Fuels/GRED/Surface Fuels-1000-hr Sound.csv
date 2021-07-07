@@ -1,0 +1,13 @@
+ProjectUnit = GRED
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,Pre-Attr
+GRED 01,0.00
+GRED 02,0.77
+GRED 03,0.00
+GRED 04,7.10
+GRED 05,0.00
+GRED 06,15.72
+Mean,3.93

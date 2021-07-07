@@ -1,0 +1,12 @@
+ProjectUnit = Lava Point Fuels
+Summary Report = Surface Fuels
+Report Attribute = Litter
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 105,0.74
+Browns 195,1.31
+Browns 255,1.15
+Browns 345,1.33
+Browns 60,1.67
+Mean,1.24

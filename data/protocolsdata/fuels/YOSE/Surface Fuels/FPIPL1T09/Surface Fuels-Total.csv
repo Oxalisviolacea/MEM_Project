@@ -1,0 +1,8 @@
+ProjectUnit = FPIPL1T09
+Summary Report = Surface Fuels
+Report Attribute = Total
+Units = Tons per Acre
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Pre00Year01-Attr,Pre00Year01-Diff,Pre00Year01-%Diff
+FPIPL1T0913,52.27,4.18,-48.09,-91.99,61.47,9.20,17.60
+Mean,52.27,4.18,48.09,91.99,61.47,-9.20,-17.60

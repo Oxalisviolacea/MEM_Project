@@ -1,0 +1,14 @@
+ProjectUnit = Pocket Mesa Fuels
+Summary Report = Surface Fuels
+Report Attribute = 1-hr
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 11,0.40
+Browns 12,0.16
+Browns 17,0.20
+Browns 24,0.23
+Browns 25,0.20
+Browns 32,0.14
+Browns 34,0.31
+Mean,0.24

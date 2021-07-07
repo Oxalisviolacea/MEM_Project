@@ -1,0 +1,9 @@
+ProjectUnit = FABCO1G08
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr11-Attr,01Yr11-Diff,01Yr11-%Diff
+B:FABCO1G08:01,1.15,0.40,-0.75,-65.00,0.68,-0.47,-40.87,0.48,-0.67,-58.04,1.13,-0.02,-1.74
+B:FABCO1G08:02,0.85,0.68,-0.17,-20.35,0.81,-0.04,-5.01,0.47,-0.38,-44.84,0.97,0.12,14.16
+Mean,1.00,0.54,0.46,46.06,0.74,0.26,25.66,0.48,0.52,52.44,1.05,-0.05,-5.01

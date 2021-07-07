@@ -1,0 +1,12 @@
+ProjectUnit = Lava Point Fuels
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,00Pre-Attr
+Browns 105,0.50
+Browns 195,0.71
+Browns 255,1.63
+Browns 345,0.69
+Browns 60,1.16
+Mean,0.94

@@ -1,0 +1,9 @@
+ProjectUnit = Lava Point Aspen Regeneration
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,00 PreThin-Attr,01 PostThin-Attr,01 PostThin-Diff,01 PostThin-%Diff,01Thin yr01-Attr,01Thin yr01-Diff,01Thin yr01-%Diff,01T & B yr06-Attr,01T & B yr06-Diff,01T & B yr06-%Diff,01Thin yr06-Attr,01Thin yr06-Diff,01Thin yr06-%Diff,01Thinyr10-Attr,01Thinyr10-Diff,01Thinyr10-%Diff
+ABCO-33,1.35,0.51,-0.84,-61.99,1.43,0.08,5.82,0.28,-1.07,-79.08,***,***,***,12.12,10.76,794.50
+ABCO-34,6.25,***,***,***,***,***,***,***,***,***,5.62,-0.63,-10.04,3.80,-2.45,-39.23
+Mean,3.80,0.51,3.29,86.46,1.43,2.37,62.29,0.28,3.52,92.55,5.62,-1.82,-47.86,7.96,-4.15,-109.31

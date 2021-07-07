@@ -1,0 +1,17 @@
+ProjectUnit = WILDCAT
+Summary Report = Surface Fuels
+Report Attribute = 10-hr
+Units = Tons per Acre
+
+Macroplot,PRE-Attr
+WILD_01,0.63
+WILD_02,1.28
+WILD_03,0.94
+WILD_04,0.61
+WILD_05,2.76
+WILD_06,0.61
+WILD_07,1.87
+WILD_08,0.64
+WILD_09,2.78
+WILD_10,2.15
+Mean,1.43

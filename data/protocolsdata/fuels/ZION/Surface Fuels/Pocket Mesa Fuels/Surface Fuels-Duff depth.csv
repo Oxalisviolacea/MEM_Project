@@ -1,0 +1,14 @@
+ProjectUnit = Pocket Mesa Fuels
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,00Pre-Attr
+Browns 11,0.89
+Browns 12,0.53
+Browns 17,0.33
+Browns 24,0.20
+Browns 25,0.29
+Browns 32,0.67
+Browns 34,0.40
+Mean,0.47

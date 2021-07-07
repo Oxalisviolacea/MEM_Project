@@ -1,0 +1,10 @@
+ProjectUnit = FCADE1T10
+Summary Report = Surface Fuels
+Report Attribute = Duff
+Units = Tons per Acre
+
+Macroplot,Pre00-Attr,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff
+FCADE1T1001,21.46,0.30,-21.16,-98.60,2.02,-19.44,-90.58,0.97,-20.49,-95.47,6.29,-15.17,-70.70
+FCADE1T1002,24.58,0.62,-23.96,-97.46,1.17,-23.41,-95.23,6.21,-18.37,-74.72,5.22,-19.37,-78.78
+FCADE1T1003,31.02,1.02,-30.00,-96.70,6.29,-24.73,-79.73,5.14,-25.88,-83.43,7.86,-23.16,-74.66
+Mean,25.69,0.65,25.04,97.47,3.16,22.53,87.69,4.11,21.58,84.00,6.46,19.23,74.87

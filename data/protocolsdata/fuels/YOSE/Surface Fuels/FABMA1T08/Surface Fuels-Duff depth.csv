@@ -1,0 +1,9 @@
+ProjectUnit = FABMA1T08
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,Pre00-Attr,Post01-Attr,Post01-Diff,Post01-%Diff,Re01Year01-Attr,Re01Year01-Diff,Re01Year01-%Diff,Re01Year02-Attr,Re01Year02-Diff,Re01Year02-%Diff,Re01Year05-Attr,Re01Year05-Diff,Re01Year05-%Diff,Re01Year10-Attr,Re01Year10-Diff,Re01Year10-%Diff,02YR01-Attr,02YR01-Diff,02YR01-%Diff
+FABMA1T0801,2.72,0.19,-2.53,-93.19,0.05,-2.67,-98.25,0.04,-2.68,-98.44,0.44,-2.28,-83.72,0.00,-2.72,-100.00,0.22,-2.50,-91.90
+FABMA1T0802,1.91,0.19,-1.72,-89.92,0.15,-1.77,-92.41,0.19,-1.72,-90.05,0.24,-1.67,-87.43,0.00,-1.91,-100.00,***,***,***
+Mean,2.31,0.19,2.13,91.84,0.10,2.22,95.84,0.12,2.20,94.98,0.34,1.97,85.25,0.00,2.31,100.00,0.22,2.09,90.49

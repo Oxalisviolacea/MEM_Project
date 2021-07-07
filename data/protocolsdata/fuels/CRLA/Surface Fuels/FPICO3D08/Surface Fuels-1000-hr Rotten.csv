@@ -1,0 +1,10 @@
+ProjectUnit = FPICO3D08
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Rotten
+Units = Tons per Acre
+
+Macroplot,00Pro1-Attr,00Pre-Attr,00Pre-Diff,00Pre-%Diff,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr09-Attr,01Yr09-Diff,01Yr09-%Diff
+B:FPICO3D08:02,22.98,5.73,-17.25,-75.05,12.19,-10.78,-46.93,0.21,-22.76,-99.07,***,***,***,***,***,***
+B:FPICO3D08:03,29.33,50.47,21.14,72.08,2.31,-27.02,-92.13,1.42,-27.91,-95.17,***,***,***,***,***,***
+B:FPICO3D08:01,***,1.71,***,***,0.00,***,***,0.00,***,***,0.00,***,***,0.67,***,***
+Mean,26.15,19.30,6.85,26.19,4.83,21.32,81.51,0.54,25.61,97.92,0.00,26.15,100.00,0.67,25.48,97.43

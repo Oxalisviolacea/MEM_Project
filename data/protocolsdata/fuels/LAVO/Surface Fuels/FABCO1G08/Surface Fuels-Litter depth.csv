@@ -1,0 +1,9 @@
+ProjectUnit = FABCO1G08
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr11-Attr,01Yr11-Diff,01Yr11-%Diff
+B:FABCO1G08:01,1.19,0.42,-0.77,-64.63,0.45,-0.74,-61.89,0.77,-0.42,-34.95,0.28,-0.91,-76.42
+B:FABCO1G08:02,1.70,0.27,-1.43,-84.37,0.70,-0.99,-58.55,0.80,-0.89,-52.65,0.47,-1.23,-72.27
+Mean,1.44,0.34,1.10,76.24,0.58,0.86,59.93,0.79,0.65,45.36,0.38,1.07,73.98

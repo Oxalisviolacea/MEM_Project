@@ -1,0 +1,9 @@
+ProjectUnit = POTR1T08
+Summary Report = Surface Fuels
+Report Attribute = Litter depth
+Units = Inches
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,02YEAR1-Attr,02YEAR1-Diff,02YEAR1-%Diff
+B_FPOTR1T08_02,0.92,1.08,0.16,17.12,0.85,-0.08,-8.15,0.45,-0.47,-51.09,0.83,-0.10,-10.33
+B_FPOTR1T08_03,0.46,1.06,0.60,130.43,0.25,-0.22,-46.74,0.41,-0.05,-10.33,0.39,-0.07,-15.76
+Mean,0.69,1.07,-0.38,-54.89,0.55,0.15,21.01,0.43,0.26,37.50,0.61,0.08,12.14

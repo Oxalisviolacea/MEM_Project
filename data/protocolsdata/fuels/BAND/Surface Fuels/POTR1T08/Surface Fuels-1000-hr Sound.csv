@@ -1,0 +1,9 @@
+ProjectUnit = POTR1T08
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Sound
+Units = Tons per Acre
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,02YEAR1-Attr,02YEAR1-Diff,02YEAR1-%Diff
+B_FPOTR1T08_02,12.75,5.45,-7.30,-57.23,4.59,-8.16,-64.02,4.35,-8.40,-65.86,6.79,-5.96,-46.76
+B_FPOTR1T08_03,4.60,5.43,0.83,18.07,3.42,-1.18,-25.69,4.69,0.09,1.95,4.44,-0.16,-3.43
+Mean,8.67,5.44,3.23,37.28,4.00,4.67,53.86,4.52,4.15,47.89,5.61,3.06,35.28

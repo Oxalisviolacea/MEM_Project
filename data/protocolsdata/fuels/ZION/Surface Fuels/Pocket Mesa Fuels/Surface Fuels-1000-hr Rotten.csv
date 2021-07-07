@@ -1,0 +1,14 @@
+ProjectUnit = Pocket Mesa Fuels
+Summary Report = Surface Fuels
+Report Attribute = 1000-hr Rotten
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr
+Browns 11,***
+Browns 12,***
+Browns 17,***
+Browns 24,***
+Browns 25,***
+Browns 32,***
+Browns 34,***
+Mean,***

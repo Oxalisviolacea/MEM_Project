@@ -1,0 +1,9 @@
+ProjectUnit = FABCO1G08
+Summary Report = Surface Fuels
+Report Attribute = 1-hr
+Units = Tons per Acre
+
+Macroplot,00Pre-Attr,01Yr01-Attr,01Yr01-Diff,01Yr01-%Diff,01Yr02-Attr,01Yr02-Diff,01Yr02-%Diff,01Yr05-Attr,01Yr05-Diff,01Yr05-%Diff,01Yr11-Attr,01Yr11-Diff,01Yr11-%Diff
+B:FABCO1G08:01,0.44,0.32,-0.12,-26.37,0.53,0.09,20.94,1.42,0.98,223.59,0.99,0.55,126.33
+B:FABCO1G08:02,0.02,0.00,-0.02,-83.33,0.06,0.04,166.67,0.02,0.00,0.00,0.01,-0.02,-66.67
+Mean,0.23,0.16,0.07,29.31,0.30,-0.07,-28.46,0.72,-0.49,-212.05,0.50,-0.27,-116.36

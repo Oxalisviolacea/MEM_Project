@@ -1,0 +1,9 @@
+ProjectUnit = POTR1T08
+Summary Report = Surface Fuels
+Report Attribute = Duff depth
+Units = Inches
+
+Macroplot,01PRE-Attr,01POST-Attr,01POST-Diff,01POST-%Diff,01YEAR1-Attr,01YEAR1-Diff,01YEAR1-%Diff,01YEAR2-Attr,01YEAR2-Diff,01YEAR2-%Diff,02YEAR1-Attr,02YEAR1-Diff,02YEAR1-%Diff
+B_FPOTR1T08_02,2.93,1.42,-1.51,-51.62,1.91,-1.02,-34.70,1.23,-1.70,-58.03,0.25,-2.68,-91.62
+B_FPOTR1T08_03,0.48,0.40,-0.08,-16.84,0.15,-0.33,-68.95,0.29,-0.19,-38.95,0.18,-0.30,-62.11
+Mean,1.70,0.91,0.80,46.76,1.03,0.67,39.49,0.76,0.94,55.37,0.21,1.49,87.50
